@@ -54,7 +54,7 @@ def openFile(lang):
                 print(text)
             except Exception as e:
                 print(str(e))
-                messagebox.showerror("PyTesseract Not Found", "Tesseract OCR not found. Please install it and re run the file. The link to download is in the Github repository.")
+                messagebox.showerror("PyTesseract Not Found", "Tesseract OCR not found. Please install it and re run the file. The link to download is in the Github repository. If you have downloaded and installed it, then re run it and change the installation directory to 'C:\Program Files\Tesseract-OCR\'")
             try:
                 from googletrans import Translator
                 translator = Translator()
