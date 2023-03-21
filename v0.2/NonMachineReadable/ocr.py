@@ -54,10 +54,7 @@ def openFile(lang):
                 print(text)
             except Exception as e:
                 print(str(e))
-                import os
-                os.system("start tesseract-ocr-w64-setup-5.3.0.20221222.exe") 
-                text = pytesseract.image_to_string(img)
-                print(text)
+                messagebox.showerror("PyTesseract Not Found", "Tesseract OCR not found. Please install it and re run the file. The link to download is in the Github repository.")
             try:
                 from googletrans import Translator
                 translator = Translator()
