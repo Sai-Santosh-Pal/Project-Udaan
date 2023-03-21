@@ -9,6 +9,7 @@ Idea given by IIT Bombay, implementation by me. It is to break the language barr
 ## Installation
 - Install Tesseract from this link - [https://drive.google.com/u/0/uc?id=1STaN0yqHLAmjeemthxWpcCayh9JbWA_S&export=download&confirm=t&uuid=d884e58c-9ce9-478a-b614-8f07ac917e8e&at=ALgDtsyUE6fOddSd3a4v2HwSDXf7:1679410861717](https://drive.google.com/u/0/uc?id=1STaN0yqHLAmjeemthxWpcCayh9JbWA_S&export=download&confirm=t&uuid=d884e58c-9ce9-478a-b614-8f07ac917e8e&at=ALgDtsyUE6fOddSd3a4v2HwSDXf7:1679410861717)
 - Open the file and install Tesseract
+- While installing, do not change the installation directory
 - Please download python 3.9 or above (If already done skip this step.)
 - Clone the project ```git clone https://github.com/Sai-Santosh-Pal/Project-Udaan.git```
 
