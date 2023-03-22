@@ -1,7 +1,7 @@
 # Project Udaan
 
 ## Introduction
-Idea given by IIT Bombay, implementation by me. It is to break the language barrier. It can translate pdf and image files to many Indian languages in 4-5 clicks. The accuracy rate is 85%, which is a good number. Currently it is only for Windows but in the near future, I will work on Mac OS and Linux too. It is based on Google Translate so sometimes it's not that accurate. The output 
+Idea given by IIT Bombay, implementation by me. It is to break the language barrier. It can translate pdf and image files to many Indian languages in 4-5 clicks. The accuracy rate is 85%, which is a good number. Currently it is only for Windows but in the near future, I will work on Mac OS and Linux too. It is based on Google Translate, so sometimes it's not that accurate. The output is given as a ```.txt``` file so that it will be easier to handle and the file size will reduce drastically.
 ## Advantages
 - Fast 💨
 - Reliable ✔
